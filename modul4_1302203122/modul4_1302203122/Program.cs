@@ -11,6 +11,7 @@ namespace modul4_1302203122
         static void Main(string[] args)
         {
             penjumlahan.JumlahTigaAngka<float>(13, 02, 20);
+            Console.WriteLine("TES");
         }
     }
     class penjumlahan
